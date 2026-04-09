@@ -35,7 +35,7 @@
 ## Run (Development)
 
 ```bash
-cd "/Users/pritamrameshlone/Documents/New project/mac-drop"
+cd /path/to/mac-drop
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .

@@ -15,3 +15,5 @@ dist/
 build/
 *.egg-info/
 .tmp-platform-tools.zip
+.pyinstaller-cache/
+*.spec
