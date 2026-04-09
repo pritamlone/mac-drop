@@ -34,6 +34,14 @@
 
 ## Run (Development)
 
+If you downloaded as ZIP from GitHub, the extracted folder is usually:
+
+```bash
+cd "$HOME/Downloads/mac-drop-main"
+```
+
+Or if you cloned / moved the project elsewhere:
+
 ```bash
 cd /path/to/mac-drop
 python3 -m venv .venv
