@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.venv/
+venv/
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.dist/
+dist/
+build/
+*.egg-info/
+.tmp-platform-tools.zip
